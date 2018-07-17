@@ -1,0 +1,17 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+.center{
+    justify-content: center;
+}
+#play-area{
+    margin: 40px 100px 40px 100px;
+    border: solid black;
+    width: 0 auto;
+    height: 600px;
+    background: linear-gradient(to right, #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+body{
+    background: linear-gradient(to right, #b4e391 0%,#61c419 50%,#b4e391 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
